@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ride the Data in a Bentley"
+title                    : "Bentley's Data Science Machine"
 title_separator          : "|"
 name                     : "A. Joshua Bentley"
 description              : "A website for professional data science and analysis exploration"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "A. Joshua Bentley"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Head in the clouds, feet on the ground."
+  bio              : "Ride the data in a Bentley."
   location         : "New York, NY"
   email            : "ajoshuabentley@yahoo.com"
   uri              : "https://ajbentley.github.io"
